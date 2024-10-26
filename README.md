@@ -23,7 +23,4 @@ Add keyboard support for inputs.
 Include more advanced operations (square root, exponentiation, etc.).
 Implement a memory function to save results.
 
-
-
-
 ![Screenshot 2024-10-26 071157](https://github.com/user-attachments/assets/b1724b51-4b7c-480a-b73a-fc577370b423)
